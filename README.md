@@ -27,7 +27,4 @@ Clone the repo or copy the code into a .py file
 
 Run the script using Python 3:
 
-bash
-Copy
-Edit
 python banking_app.py
