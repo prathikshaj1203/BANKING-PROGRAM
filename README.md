@@ -1,30 +1,29 @@
-🏦 Simple Python Banking App
+# 🏦 Simple Python Banking App
+
 This is a beginner-friendly, console-based banking application written in Python. It allows users to:
 
-💰 View their current balance
+- 💰 View their current balance  
+- ➕ Deposit money  
+- ➖ Withdraw money  
+- ❌ Exit the application  
 
-➕ Deposit money
+The app handles input validation, gives clear feedback messages, and ensures a smooth user experience for basic banking operations. It’s designed to be **readable**, **simple**, and **extendable** — perfect for learning or showcasing basic Python skills.
 
-➖ Withdraw money
+---
 
-❌ Exit the application
+## 🔧 Features
 
-The app handles input validation, gives clear feedback messages, and ensures a smooth user experience for basic banking operations. It’s designed to be readable, simple, and extendable — perfect for learning or showcasing basic Python skills.
+- Function-based modular structure  
+- Clean and readable code  
+- Input validation for better error handling  
+- Friendly UX with emoji-based prompts  
+- Great starting point for learning Python or building a more advanced app  
 
-🔧 Features
-Function-based modular structure
+---
 
-Clean and readable code
+## 💡 How to Run
 
-Input validation for better error handling
+Clone the repo or copy the code into a `.py` file, then run it using Python 3:
 
-Friendly UX with emoji-based prompts
-
-Great starting point for learning Python or building a more advanced app
-
-💡 How to Run
-Clone the repo or copy the code into a .py file
-
-Run the script using Python 3:
-
+```bash
 python banking_app.py
